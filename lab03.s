@@ -100,6 +100,7 @@ outShowRowLoop:
 rgb888_to_rgb565:
 # ----------------------------------------
 # Write your code here.
+#
 # You may move the "return" instruction (jalr zero, ra, 0).
     jalr zero, ra, 0
 
